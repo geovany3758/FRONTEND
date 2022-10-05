@@ -1,2 +1,5 @@
-# FRONT-END-X
-preparacion front-end
+# FRONTENDX
+  UX/UI
+  HTML
+  CSS
+  JAVASCRIPT
