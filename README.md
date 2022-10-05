@@ -1,5 +1,5 @@
 # FRONTENDX
-  UX/UI
-  HTML
-  CSS
-  JAVASCRIPT
+   - UX/UI
+   - HTML
+   -CSS
+   - JAVASCRIPT
